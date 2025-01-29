@@ -1,2 +1,17 @@
-# avalonia-ui-tutorials
-A collection of practical tutorials for Avalonia UI, designed to help developers create modern and dynamic desktop applications using .NET Core. This repository covers essential techniques for building interactive user interfaces, handling UI customization, and improving user experience in Avalonia UI.
+# Avalonia UI Tutorials  
+
+A collection of structured tutorials focused on building interactive and dynamic **desktop applications** using **Avalonia UI and .NET Core**.  
+
+## 📖 Available Tutorials  
+📌 **[Dynamic Widgets](./dynamic-widgets.md)** – Learn how to create, customize, and manage UI widgets dynamically.  
+
+More tutorials coming soon! Stay updated. 🚀  
+
+## 🛠 Requirements  
+- **.NET Core 6+**  
+- **Avalonia UI Toolkit**  
+- **ReactiveUI**  
+
+## 📂 How to Use This Repository?  
+Each tutorial is a separate `.md` file that you can read directly on GitHub.  
+To clone this repository:  
