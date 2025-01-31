@@ -10,7 +10,7 @@ A collection of structured tutorials focused on building interactive and dynamic
 More tutorials coming soon! Stay updated. 🚀  
 
 ## 🛠 Requirements  
-- **.NET Core 6+**  
+- **.NET 6+**  
 - **Avalonia UI Toolkit**  
 - **ReactiveUI**  
 
