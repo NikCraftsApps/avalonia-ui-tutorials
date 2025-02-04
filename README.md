@@ -9,6 +9,8 @@ A collection of structured tutorials focused on building interactive and dynamic
 
 📌 **[Saving and Loading JSON](./saving-loading-json.md)** – Learn how to Save and Load JSON Data in Avalonia UI.
 
+📌 **[Exporting Data (PDF & Excel)](./exporting-data.md)** – Learn how to Export Data to Excel and PDF in Avalonia UI.
+
 More tutorials coming soon! Stay updated. 🚀  
 
 ## 🛠 Requirements  
